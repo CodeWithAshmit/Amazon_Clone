@@ -46,6 +46,7 @@ How It Works
 6.The footer is styled to resemble Amazon’s multi-column layout.
 
 Future Improvements
+<br>
 🔹 Add JavaScript to improve interactivity (e.g., dynamic search, cart functionality).
 🔹 Improve mobile responsiveness for smaller screens.
 🔹 Include Dark Mode toggle for better user experience.
